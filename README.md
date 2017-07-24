@@ -10,3 +10,11 @@ Name: Name of the .tar.gz-File, the ".tar.gz" will be added by the programm.
 Then Check the Folders you want to convert and press "Convert to Targz".
 
 You have one preset thats loaded when the program is started, it saves InputPath, OutputPath and Name.
+
+This is my first github-project and its less of a project and more something that i just made because it made my life easier.
+If i get some Feedback or something, ill propably Improve this programm. Some Features could be:
+  - more Saves and SaveSelect
+  - a working Progressbar
+  - selection of Folders in different directories, to convert into a targz
+  
+
