@@ -1,6 +1,6 @@
 # ToTarGzConverter
 A Small Programm that lets you  convert Multiple Folders into a single .tar.gz-File, while keeping the folder-strukture. 
-Needs .net 4.0, no ther installations needed.
+Needs .net 4.0, no ther installations needed, just put all the files in a seperate Folder and use the exe (there propably is a way to make that better, but i dont know it...)
 
 THIS IS LIKE A ALPHA, it works, but very little testing has been done.
 
