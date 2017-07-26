@@ -1,10 +1,11 @@
-# ToTarGzConverter
+# To .tar.gz Converter
 A Small Programm that lets you  convert Multiple Folders into a single .tar.gz-File, while keeping the folder-strukture. 
-Needs .net 4.0, no ther installations needed, just put all the files in a seperate Folder and use the exe (there propably is a way to make that better, but i dont know it...)
+Needs .net 4.0, no other installations needed, just put all the files in a seperate Folder and use the exe (there propably is a way to make that better, but i dont know it)
 It is the same thing you could do with 7zip manunally, just faster and not manual.
 
 THIS IS LIKE A ALPHA, it works, but very little testing has been done.
 
+# Usage
 -InputPath: Path to where the Folders you want to convert are (all Folders you want to convert need to be in the same directory).
 
 -OutputPath: Path to where to .tar.gz-File will be outputted.
@@ -15,6 +16,7 @@ Then Check the Folders you want to convert and press "Convert to Targz".
 
 You have one preset thats loaded when the program is started, it saves InputPath, OutputPath and Name.
 
+# Misc
 This is my first github-project and its less of a project and more something that i just made because it made my life easier.
 If i get some Feedback or something, ill propably Improve this programm. Some Features could be:
   - more Saves and SaveSelect
